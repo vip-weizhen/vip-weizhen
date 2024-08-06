@@ -1,4 +1,4 @@
-### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vip-weizhen&count_private=true&show_icons=true&include_all_commits=true)
-
+<p>
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=vip-weizhen&theme=onedark&column=-1&margin-w=15" />    
+</p>

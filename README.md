@@ -7,7 +7,7 @@
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=vip-weizhen&theme=onedark&column=-1&margin-w=15" />         
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vip-weizhen&theme=merko&custom_title=weizhen%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/vip-weizhen)                    
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vip-weizhen&theme=merko&custom_title=weizhen%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/vip-weizhen)                     
 
 
 <h2>🔧 语言和工具</h2>
@@ -83,12 +83,12 @@
 <h2>💻 IDE (集成开发环境)</h2>
 
 <p>
-	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/> </a> 
+	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/> </a>  
     <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" alt="datagrip" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/> </a> 
     <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/> </a>
     <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
-    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://1967399885.hiecheimaetu.com:22443/qn-324ELNAp8KSZLNhoiFj4uMVYtWjsUJSk2XG0aLw4.img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a>  
+    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://1967399885.hiecheimaetu.com:22443/qn-324ELNAp8KSZLNhoiFj4uMVYtWjsUJSk2XG0aLw4.img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a>   
     <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/> </a>
     <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/> </a> 
 </p>
@@ -96,26 +96,26 @@
 <h2>💬 与我联系</h2>
 
 <p align="left">
-    <a href="https://github.com/vip-weizhen" target="blank">     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />  
+    <a href="https://github.com/vip-weizhen" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />   
     </a>
-    <a href="https://x.com/vip_weizhen" target="blank">       
+    <a href="https://x.com/vip_weizhen" target="blank">
 <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />    
     </a>
-    <a href="https://www.facebook.com/vip.weizhen" target="blank">            
-<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />    
+    <a href="https://www.facebook.com/vip.weizhen" target="blank">
+<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />     
     </a>
-    <a href="https://t.me/vip_weizhen" target="blank">          
+    <a href="https://t.me/vip_weizhen" target="blank">
 <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />   
     </a>
-     <a href="https://www.tiktok.com/@vip.weizhen" target="blank">             
+     <a href="https://www.tiktok.com/@vip.weizhen" target="blank">
 <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />    
     </a>
-    <a href="https://www.youtube.com/@vip.weizhen" target="blank">      
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />      
+    <a href="https://www.youtube.com/@vip.weizhen" target="blank">
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />       
     </a>
-    <a href="https://sites.weizhen.xyz" target="blank">     
-<img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" />  
+    <a href="https://sites.weizhen.xyz" target="blank">
+<img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" />   
     </a>
 </p>
 

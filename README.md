@@ -4,20 +4,16 @@
 你好！我是 [weizhen]，一名热爱编程和技术的开发者。
 
 <h2>📋 职责</h2>
-{项目管理}: 监督各个项目的技术方面，确保及时交付和高质量输出。
+<p>{项目管理}: 监督各个项目的技术方面，确保及时交付和高质量输出。</p> 
+<p>{Java 后端开发}: 构建和实现强大的服务器端解决方案。</p> 
+<p>{Vue 前端开发}: 创建响应式且直观的用户界面。</p> 
+<p>{Web3 和区块链集成}: 开发和实现基于区块链的特性和功能。</p> 
+<p>{Linux 云服务器部署和维护}: 确保云基础设施的平稳运行和最佳性能。</p> 
 
-{Java 后端开发}: 构建和实现强大的服务器端解决方案。
-
-{Vue 前端开发}: 创建响应式且直观的用户界面。
-
-{Web3 和区块链集成}: 开发和实现基于区块链的特性和功能。
-
-{Linux 云服务器部署和维护}: 确保云基础设施的平稳运行和最佳性能。
-
-<h2>🏆 GitHub 活动</h2> 
-<p>
+<h2>🏆 GitHub 活动</h2>  
+<p> 
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=vip-weizhen&theme=onedark&column=-1&margin-w=15" />         
-</p>
+</p> 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vip-weizhen&theme=merko&custom_title=weizhen%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/vip-weizhen)                      
 

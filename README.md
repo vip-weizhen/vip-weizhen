@@ -1,5 +1,5 @@
 <h2>👋 关于我</h2>
-
+你好！我是 [weizhen]，一名热爱编程和技术的开发者。
 <h2>📋 职责</h2>
 
 <h2>🏆 GitHub 活动</h2> 
@@ -24,7 +24,7 @@
     <!-- ********** D ********** -->
     <!-- ********** E ********** -->
     <a href="https://echarts.apache.org" target="_blank"> <img src="https://echarts.apache.org/en/images/favicon.png" alt="echarts" height="40"/> </a>
-	<a href="https://element-plus.org" target="_blank"> <img src="https://element-plus.org/images/element-plus-logo.svg" alt="Element Plus" height="40"/> </a>
+	<a href="https://element-plus.org" target="_blank"> <img src="https://element-plus.org/images/element-plus-logo.svg" alt="Element Plus" height="40"/> </a> 
     <a href="https://ethers.org" target="_blank"> <img src="https://ethers.org/favicon.ico" alt="ethers" height="40"/> </a> 
     <!-- ********** F ********** -->
     <!-- ********** G ********** -->

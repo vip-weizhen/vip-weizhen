@@ -20,7 +20,7 @@
     <!-- ********** B ********** -->
     <!-- ********** C ********** -->
 	<a href="https://cloudflare.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" height="40"/> </a> 
-	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a> 
+	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a>  
     <!-- ********** D ********** -->
     <!-- ********** E ********** -->
     <a href="https://echarts.apache.org" target="_blank"> <img src="https://echarts.apache.org/en/images/favicon.png" alt="echarts" height="40"/> </a>
@@ -88,7 +88,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/> </a>
     <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/> </a>
     <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
-    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://1967399885.hiecheimaetu.com:22443/qn-324ELNAp8KSZLNhoiFj4uMVYtWjsUJSk2XG0aLw4.img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a> 
+    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://1967399885.hiecheimaetu.com:22443/qn-324ELNAp8KSZLNhoiFj4uMVYtWjsUJSk2XG0aLw4.img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a>  
     <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/> </a>
     <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/> </a> 
 </p>
@@ -96,25 +96,31 @@
 <h2>💬 与我联系</h2>
 
 <p align="left">
-    <a href="https://github.com/vip-weizhen" target="blank">    
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" /> 
+    <a href="https://github.com/vip-weizhen" target="blank">     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />  
     </a>
     <a href="https://x.com/vip_weizhen" target="blank">       
-        <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />   
+<img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />    
     </a>
-    <a href="https://www.facebook.com/vip.weizhen" target="blank">           
-        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />   
+    <a href="https://www.facebook.com/vip.weizhen" target="blank">            
+<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />    
     </a>
     <a href="https://t.me/vip_weizhen" target="blank">          
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />  
+<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />   
     </a>
      <a href="https://www.tiktok.com/@vip.weizhen" target="blank">             
-        <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />   
+<img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />    
     </a>
     <a href="https://www.youtube.com/@vip.weizhen" target="blank">      
-        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />     
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />      
     </a>
-    <a href="https://sites.weizhen.xyz" target="blank">    
-        <img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" /> 
+    <a href="https://sites.weizhen.xyz" target="blank">     
+<img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" height="40" />  
     </a>
 </p>
+
+<h2>💰 捐赠</h2>
+
+如果你喜欢我做的事情，也许可以考虑请我喝杯咖啡。
+
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 

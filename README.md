@@ -6,7 +6,7 @@
 
 ### 一名热爱编程与技术的全栈开发者
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=460&lines=Java+%2B+Vue+全栈开发者;Web3+%26+区块链探索者;云原生基础设施爱好者" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=100&lines=%E2%9A%A1+Java+%2B+Vue+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;%F0%9F%94%97+Web3+%26+%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8E%A2%E7%B4%A2%E8%80%85;%E2%98%81%EF%B8%8F+%E4%BA%91%E5%8E%9F%E7%94%9F%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
 
 <br/>
 
@@ -52,6 +52,35 @@
 **工具 & IDE**
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,postman,datagrip&theme=dark" />
+
+</div>
+
+---
+
+## 📈 技能熟练度
+
+<div align="center">
+
+**Java**
+![](https://progress-bar.dev/90/?width=400&color=babca3)
+
+**Vue.js**
+![](https://progress-bar.dev/85/?width=400&color=babca3)
+
+**Spring / Spring Boot**
+![](https://progress-bar.dev/85/?width=400&color=babca3)
+
+**MySQL / Redis**
+![](https://progress-bar.dev/80/?width=400&color=babca3)
+
+**Web3 / 区块链**
+![](https://progress-bar.dev/70/?width=400&color=babca3)
+
+**Linux 云服务器运维**
+![](https://progress-bar.dev/85/?width=400&color=babca3)
+
+**Cloudflare Workers**
+![](https://progress-bar.dev/80/?width=400&color=babca3)
 
 </div>
 

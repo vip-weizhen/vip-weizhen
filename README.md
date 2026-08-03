@@ -105,7 +105,7 @@
     <a href="https://github.com/vip-weizhen" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
     </a>
-    <a href="https://x.com/vip_weizhen" target="blank">
+    <a href="https://x.com/CN_WeiZhen" target="blank">
 <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
     </a>
     <a href="https://www.facebook.com/vip.weizhen" target="blank">

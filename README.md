@@ -90,8 +90,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vip-weizhen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vip-weizhen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vip-weizhen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vip-weizhen&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vip-weizhen&theme=tokyonight&hide_border=true" />
 
@@ -111,7 +111,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vip_weizhen)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vip.weizhen)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vip.weizhen)
-[![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](vip-weizhen)
+[![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://sites.weizhen.xyz)
 
 </div>
 
